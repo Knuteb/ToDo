@@ -1,9 +1,10 @@
-**Projects List**
+**PROJECTS LIST**
 ==============
 ###**In some order of priority...**
 -----------
 
->__xmas list__
+###__<b>XMAS List</b>__
+>
 >Adeline
 >
 >Dad
@@ -36,10 +37,9 @@
 
 ###__Legacy__
 >Check all fluids, what codes? Reset battery, carpet clean, door seals, What is leaking and rattling?  Finish oil catch can, HIDS, redo tint, touch up white, fender well undercoating, 
-
 > 
->*Parts* (New)
+><b>Parts</b> (New)
 >O2 Sensor, Tires, Brakes, Paint, Axles, Struts, 
-
->*Parts* (Used)
+>
+><b>Parts</b> (Used)
 > Trunk cover, doors, inside panels, rear cup holder, wing, hood, center taillights, Brake booster
