@@ -1,6 +1,6 @@
 **PROJECTS LIST**
 ==============
-###**In some order of priority...**
+###**Get some shit done.**
 -----------
 
 ###__<b>XMAS List</b>__
@@ -43,3 +43,20 @@
 >
 ><b>Parts</b> (Used)
 > Trunk cover, doors, inside panels, rear cup holder, wing, hood, center taillights, Brake booster
+
+###Home
+>
+>
+><b>Bedframe</b>
+><b>Windows</b>
+>Clean, run lights, close all air cracks, curtains over the blinds, 
+><b>Pre-Wire for stereo</b>, mount speakers, make shelves, 
+>###Vacation
+>
+>
+>Pick a place then go there
+>
+>
+###Desk
+>
+>Clean and move EVERYHING.  
