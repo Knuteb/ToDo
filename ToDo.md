@@ -45,18 +45,23 @@
 > Trunk cover, doors, inside panels, rear cup holder, wing, hood, center taillights, Brake booster
 
 ###Home
->
->
+
+
 ><b>Bedframe</b>
+>Sand Everything
+><b>Buy:</b> Ployeurothane 8 angle brackets, liquid nails, 
+
+
 ><b>Windows</b>
->Clean, run lights, close all air cracks, curtains over the blinds, 
-><b>Pre-Wire for stereo</b>, mount speakers, make shelves, 
->###Vacation
+><Clean, run lights, close all air cracks, curtains over the blinds, 
+><b>TO DO:</b>Wire for 7.2.2 , mount speakers, make shelves,
+
+
+<b>Vacation</b>
+>Pick a place, then, go there!
 >
->
->Pick a place then go there
->
->
-###Desk
->
+
+
+
+<b>Desk</b>
 >Clean and move EVERYHING.  
