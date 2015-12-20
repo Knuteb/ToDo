@@ -44,12 +44,12 @@
 ><b>Parts</b> (Used)
 > Trunk cover, doors, inside panels, rear cup holder, wing, hood, center taillights, Brake booster
 
-###Home
+###__Home__
 
 
 ><b>Bedframe</b>
 >Sand Everything
-><b>Buy:</b> Ployeurothane 8 angle brackets, liquid nails, 
+><b>Buy:</b> Polyurothane, 8 angle brackets, liquid nails, 
 
 
 ><b>Windows</b>
